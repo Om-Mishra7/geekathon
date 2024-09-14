@@ -859,22 +859,21 @@ footer {
   .team-section .team-section-container .team-section-header h2 {
     font-size: 2rem;
   }
-
-  .team-section .team-section-container .team-section-content .team-category .team-members {
-    flex-direction: column;
-  }
-
+  
   .team-section .team-section-container .team-section-content .team-category h3 {
     font-size: 1.5rem;
   }
 
   .team-section .team-section-container .team-section-content .team-category .team-members {
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
   }
 
   .team-section .team-section-container .team-section-content .team-category .team-member img {
-    width: 100%;
-    height: 100%;
+    width: 200px;
+    height: 200px;
   }
 
   .event-partners-section .event-partners-section-container .event-partners-section-content {
