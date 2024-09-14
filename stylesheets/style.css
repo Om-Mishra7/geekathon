@@ -4,6 +4,9 @@
 
 * {
   box-sizing: border-box;
+  scroll-behavior: smooth;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
 }
 
 /* Reset */
@@ -608,6 +611,7 @@ navbar {
 .team-section .team-section-container .team-section-content .team-category .team-members {
   display: flex;
   justify-content: flex-start;
+  flex-wrap: wrap;
   align-items: center;
   gap: 20px;
 }

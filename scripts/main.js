@@ -6,4 +6,3 @@ window.onscroll = function() {
         navbar.classList.remove('navbar-scrolled');
     }
 }
-
