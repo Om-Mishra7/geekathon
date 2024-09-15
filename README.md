@@ -16,8 +16,8 @@ Welcome to the official repository for Geekathon'24, a beginner-focused hackatho
 
 Geekathon'24 is an exciting hackathon designed to unleash creativity and innovation among beginners in the tech world. This event brings together aspiring developers, designers, and problem-solvers to collaborate, learn, and create amazing projects.
 
-🗓️ **Date: 15th October**
-📍 **Venue: [K.R.Mangalam University, Sohna, Haryana]("https://maps.app.goo.gl/cM1WFsDM3D8FB9BS8")**
+🗓️ **Date**: 15th October
+📍 **Venue**: - [K.R.Mangalam University, Sohna, Haryana]("https://maps.app.goo.gl/cM1WFsDM3D8FB9BS8/")
 
 ## Features 🛠️
 
@@ -50,7 +50,8 @@ Meet the fantastic team behind Geekathon'24:
 
 - 👨‍🏫 **Faculty Coordinator**: Dr. Shweta Bansal
 - 👑 **Chapter Head**: Aditey Mehra
-- 🌟 **Core Team**: Caleb Chandrasekar, Om Mishra, Suyash Sahu, Aarushi, Uma Mishra, Tanushree, Chirag Bhal, Shreiya, Vaibhav, S. Tharundhatri, Jayant Parasher, Abhinav Kumar, Swetank Pritam
+- 🌟 **Core Team**: Caleb Chandrasekar, Om Mishra, Suyash Sahu, Tanushree, Chirag Bhal
+- 🤝 **Volunteer**: Uma Mishra, Shreiya, Vaibhav, S. Tharundhatri, Jayant Parasher, Abhinav Kumar, Swetank Pritam
 
 ## Event Partners 🤝
 
