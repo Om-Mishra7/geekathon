@@ -16,8 +16,8 @@ Welcome to the official repository for Geekathon'24, a beginner-focused hackatho
 
 Geekathon'24 is an exciting hackathon designed to unleash creativity and innovation among beginners in the tech world. This event brings together aspiring developers, designers, and problem-solvers to collaborate, learn, and create amazing projects.
 
-🗓️ **Date**: [Insert Date]
-📍 **Venue**: [Insert Venue]
+🗓️ **Date: 15th October**
+📍 **Venue: [K.R.Mangalam University, Sohna, Haryana]("https://maps.app.goo.gl/cM1WFsDM3D8FB9BS8")**
 
 ## Features 🛠️
 
