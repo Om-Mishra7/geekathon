@@ -47,10 +47,7 @@ To run this website locally:
 ## Team 👥
 
 Meet the fantastic team behind Geekathon'24:
-
-- 👨‍🏫 **Faculty Coordinator**: Dr. Shweta Bansal
-- 👑 **Chapter Head**: Aditey Mehra
-- 🌟 **Core Team**: Caleb Chandrasekar, Om Mishra, Suyash Sahu, Tanushree, Chirag Bhal
+- 🌟 **Core Team**: Aditey Mehra, Caleb Chandrasekar, Om Mishra, Suyash Sahu, Tanushree, Chirag Bhal
 - 🤝 **Volunteer**: Uma Mishra, Shreiya, Vaibhav, S. Tharundhatri, Jayant Parasher, Abhinav Kumar, Swetank Pritam
 
 ## Event Partners 🤝
